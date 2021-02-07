@@ -47,7 +47,7 @@
 
 - [ ] Ich bekomme die Info vom Host, dass die Podcastaufnahme beendet ist
 - [ ] Ich beende die Aufnahme in Studiolink, ohne das schwarze Fenster zu schließen.
-- [ ] Ich sehe neue Audio Dateien sind nun vorhanden (z.B. `local.flac`)
+- [ ] Ich drücke in Studiolink den "Ordner öffnen" Button rechts oben und sehe: neue Audio Dateien sind nun vorhanden (z.B. `local.flac`)
 - [ ] Ich beende Studiolink, indem ich das schwarze Fenster schließe
 - [ ] Ich sende die Datei `local.flac` an meinen Host
 - [ ] Ich behalte die Audio-Dateien, bis ich das "ok" vom Host bekomme, dass ich diese löschen kann
