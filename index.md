@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Checkliste für Podcast Remote Aufnahmen mit Studiolink für TeilnehmerInnen
 
-You can use the [editor on GitHub](https://github.com/derphilipp/podcast_checklist/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Rollen:
+ - Host: Person, die die Podcastaufnahme verantwortet. Üblicherweise die Person, die eingeladen hat
+ - TeilnehmerIn: Alle anderen Teilnehmenden.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Checks vor dem Aufnahmetermin
+- [ ] Ich habe meinen Kopfhörer als Ausgabegerät eingestellt.
+- [ ] Mein Audiogerät steht auf 48 Khz.
+  - macOS: Programm "Audio Midi Setup" starten -> Mikrofon auswählen -> Auf 48 kHz stellen
+  - Windows:
+    - Rechte Maustaste auf den Lautsprecher -> Wiedergabegeräte -> Dort das aktuelle Wiedergabegerät auswählen
+      -  Einstellungen -> Tab Erweitert -> Dort auf "48000 Hz (DVD-Qualität)" stellen
+    - Das gleiche im Tab "Aufnahme" für das aktuelle Mikrofon
+- [ ] Ich habe die aktuelle Version von Studiolink installiert.
+  - Studiolink Standalone starten
+  - Entspricht die angezeigte Version im Browser der aktuellen
+  - Falls nicht, [Download hier](https://doku.studio-link.de/standalone/installation-standalone.html)
+- [ ] Ich habe genug Speicherplatz auf der Festplatte
+  - 200 MB x Stunden der Aufnahme x Anzahl der TeilnehmerInnen
+- [ ] Mein Audiosetup funktioniert
+  - Studiolink Standalone starten
+  - [ ] Ich rufe `music@studio.link` an und kann Musik hören
+  - [ ] Ich rufe `echo@studio.link` an und kann hören, wenn ich selbst etwas sage
+- [ ] Ich benutze, wenn möglich, kabelgebundenes Netzwerk statt WLAN
 
-### Markdown
+## Checks vor der Aufnahme
+- [ ] Ich habe ein Getränk für mich bereit gestellt
+- [ ] Ich habe störende Geräte ausgeschalten / in den Flugmodus geschalten: Mobiltelefon, Tablet, etc.
+- [ ] Ich habe Geräte, die klingeln (etc.) ausgeschalten (Uhren, Wecker, etc.)
+- [ ] Ich habe Programme die im Hintergrund laufen beendet
+- [ ] Ich starte Studiolink und schließe das schwarze Terminal Fenster nicht
+- [ ] Ich werde angerufen / rufe den Host mit Studiolink Standalone an
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Aufnahme
+- [ ] Ich klopfe leicht gegen mein Mikrofon und stelle fest, ob ich/andere dies hören (richtiges Mikrofon eingestellt)
+- [ ] Ich drücke im Browser (Studiolink) auf Record
+- [ ] Ich sage meinen Namen und dass ich die Aufnahme gestartet habe (z.B. "Aufnahme von Philipp läuft")
+- [ ] Ich zähle zusammen mit allen TeilnehmerInnen [die aktuellen Sekunden](https://time.is/) von 1 bis 10
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/derphilipp/podcast_checklist/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Ende der Aufnahme
+- [ ] Ich bekomme die Info vom Host, dass die Podcastaufnahme beendet ist
+- [ ] Ich beende die Aufnahme in Studiolink, ohne das schwarze Fenster zu schließen.
+- [ ] Ich sehe neue Audio Dateien sind nun vorhanden (z.B. `local.flac`)
+- [ ] Ich beende Studiolink, indem ich das schwarze Fenster schließe
+- [ ] Ich sende die Datei `local.flac` an meinen Host
+- [ ] Ich behalte die Audio-Dateien, bis ich das "ok" vom Host bekomme, dass ich diese löschen kann
