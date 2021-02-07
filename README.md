@@ -26,10 +26,12 @@
     - [ ] Ich rufe `music@studio.link` an und kann Musik hören
     - [ ] Ich rufe `echo@studio.link` an und kann hören, wenn ich selbst etwas sage
 - [ ] Ich benutze, wenn möglich, kabelgebundenes Netzwerk statt WLAN
+- [ ] Ich wähle den Raum mit dem geringsten Hall / Störgeräuschen
 
 ## Checks vor der Aufnahme
 
 - [ ] Ich habe ein Getränk für mich bereit gestellt
+- [ ] Ich schließe die Fenster, ich informiere andere Personen mit denen ich wohne über die geplante Aufnahme
 - [ ] Ich habe störende Geräte ausgeschalten / in den Flugmodus geschalten: Mobiltelefon, Tablet, etc.
 - [ ] Ich habe Geräte, die klingeln (etc.) ausgeschalten (Uhren, Wecker, etc.)
 - [ ] Ich habe Programme die im Hintergrund laufen beendet
