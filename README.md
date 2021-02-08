@@ -35,7 +35,7 @@
 - [ ] Ich nutze keine klickende Kugelschreiber während der Aufnahme
 - [ ] Ich habe störende Geräte ausgeschalten / in den Flugmodus geschalten: Mobiltelefon, Tablet, etc.
 - [ ] Ich habe Geräte, die klingeln (etc.) ausgeschalten (Uhren, Wecker, etc.)
-- [ ] Ich habe Programme die im Hintergrund laufen beendet
+- [ ] Ich habe Programme die im Hintergrund laufen beendet (z.B. Dropbox, Mailprogramme, etc.)
 - [ ] Ich starte Studiolink und schließe das schwarze Terminal Fenster nicht
 - [ ] Ich werde angerufen / rufe den Host mit Studiolink Standalone an
 
