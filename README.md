@@ -32,6 +32,7 @@
 
 - [ ] Ich habe ein Getränk für mich bereit gestellt
 - [ ] Ich schließe die Fenster, ich informiere andere Personen mit denen ich wohne über die geplante Aufnahme
+- [ ] Ich nutze keine klickende Kugelschreiber während der Aufnahme
 - [ ] Ich habe störende Geräte ausgeschalten / in den Flugmodus geschalten: Mobiltelefon, Tablet, etc.
 - [ ] Ich habe Geräte, die klingeln (etc.) ausgeschalten (Uhren, Wecker, etc.)
 - [ ] Ich habe Programme die im Hintergrund laufen beendet
