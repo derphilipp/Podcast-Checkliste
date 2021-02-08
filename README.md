@@ -8,7 +8,7 @@
 
 ## Checks vor dem Aufnahmetermin
 
-- [ ] Ich habe meinen Kopfhörer als Ausgabegerät eingestellt.
+- [ ] Ich habe meine Kopfhörer als Ausgabegerät eingestellt.
 - [ ] Mein Audiogerät steht auf 48 Khz.
   - macOS: Programm "Audio Midi Setup" starten -> Mikrofon auswählen -> Auf 48 kHz stellen
   - Windows:
@@ -30,12 +30,14 @@
 
 ## Checks vor der Aufnahme
 
-- [ ] Ich habe ein Getränk für mich bereit gestellt
-- [ ] Ich schließe die Fenster, ich informiere andere Personen mit denen ich wohne über die geplante Aufnahme
-- [ ] Ich nutze keine klickende Kugelschreiber während der Aufnahme
+- [ ] Ich habe ein Getränk bereitgestellt
+- [ ] Ich habe einen geräuschlosen Stift für Notizen zur Hand (kein klickender Kugelschreiber)
+- [ ] Ich habe andere Personen mit denen ich wohne über die geplante Aufnahme informiert
+- [ ] Ich habe alles entfernt, womit ich während der Aufnahme Geräusche machen könnte (z.B. Tasse & Löffel)
+- [ ] Ich habe die Fenster geschlossen, hörbare Belüftung gestoppt, etc
 - [ ] Ich habe störende Geräte ausgeschalten / in den Flugmodus geschalten: Mobiltelefon, Tablet, etc.
-- [ ] Ich habe Geräte, die klingeln (etc.) ausgeschalten (Uhren, Wecker, etc.)
-- [ ] Ich habe Programme die im Hintergrund laufen beendet (z.B. Dropbox, Mailprogramme, etc.)
+- [ ] Ich habe Geräte, die klingeln ausgeschalten (Uhren, Wecker, etc.)
+- [ ] Ich habe Programme die im Hintergrund laufen beendet (z.B. Dropbox, Mailprogramm, etc.)
 - [ ] Ich starte Studiolink und schließe das schwarze Terminal Fenster nicht
 - [ ] Ich werde angerufen / rufe den Host mit Studiolink Standalone an
 
