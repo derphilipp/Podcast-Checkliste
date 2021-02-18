@@ -31,6 +31,7 @@
 ## Checks vor der Aufnahme
 
 - [ ] Ich habe ein Getränk bereitgestellt
+- [ ] Ich war nochmals auf der Toilette
 - [ ] Ich habe einen geräuschlosen Stift für Notizen zur Hand (kein klickender Kugelschreiber)
 - [ ] Ich habe andere Personen mit denen ich wohne über die geplante Aufnahme informiert
 - [ ] Ich habe alles entfernt, womit ich während der Aufnahme Geräusche machen könnte (z.B. Tasse & Löffel)
