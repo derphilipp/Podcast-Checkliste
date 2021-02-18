@@ -34,7 +34,7 @@
 - [ ] Ich war nochmals auf der Toilette
 - [ ] Ich habe einen geräuschlosen Stift für Notizen zur Hand (kein klickender Kugelschreiber)
 - [ ] Ich habe andere Personen mit denen ich wohne über die geplante Aufnahme informiert
-- [ ] Ich habe alles entfernt, womit ich während der Aufnahme Geräusche machen könnte (z.B. Tasse & Löffel)
+- [ ] Ich habe alles entfernt, womit ich während der Aufnahme Geräusche machen könnte (z.B. Tasse & Löffel oder Armbanduhr)
 - [ ] Ich habe die Fenster geschlossen, hörbare Belüftung gestoppt, etc
 - [ ] Ich habe störende Geräte ausgeschalten / in den Flugmodus geschalten: Mobiltelefon, Tablet, etc.
 - [ ] Ich habe Geräte, die klingeln ausgeschalten (Uhren, Wecker, etc.)
