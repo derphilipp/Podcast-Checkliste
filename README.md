@@ -15,8 +15,8 @@
     - Rechte Maustaste auf den Lautsprecher -> Wiedergabegeräte -> Dort das aktuelle Wiedergabegerät auswählen
       - Einstellungen -> Tab Erweitert -> Dort auf "48000 Hz (DVD-Qualität)" stellen
     - Das gleiche im Tab "Aufnahme" für das aktuelle Mikrofon
-- [ ] Ich habe die aktuelle Version von [Studiolink Standalone](https://doku.studio-link.de/standalone/) installiert.
-  - [Studiolink Standalone](https://doku.studio-link.de/standalone/) starten
+- [ ] Ich habe die aktuelle Version von [Studiolink Standalone](https://doku.studio-link.de/standalone/erste-schritte-standalone.html) installiert.
+  - [Studiolink Standalone](https://doku.studio-link.de/standalone/erste-schritte-standalone.html) starten
   - Entspricht die angezeigte Version im Browser der aktuellen
   - Falls nicht, [Download hier](https://doku.studio-link.de/standalone/installation-standalone.html)
 - [ ] Ich habe genug Speicherplatz auf der Festplatte
